@@ -8,7 +8,7 @@
 ## Questions
 
 1. In Python, what symbol do you use to assign a value to a variable?
-    -  You use the "=" symbol.
+    -  You use the "=" symbol. (Assignment Operator)
 2. In plain English, explain the difference between **string data** data and **numeric data**.
     -  Numeric data includes numbers while string data can contain letters, numbers and other characters.
 
